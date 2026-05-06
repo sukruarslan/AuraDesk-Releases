@@ -1,5 +1,5 @@
 ﻿{
     "url":  "file:///c:/Users/mmsuk/OneDrive/Desktop/Desktop_Organizer/guncelleme.zip",
-    "version":  "1.0.2.0",
-    "notes":  "AuraDesk v1.0.2.0 - Karakter ve Sürüm Düzeltmesi\n- Tüm Türkçe karakter sorunları giderildi.\n- Güncelleme sistemi yerel test moduna alındı."
+    "version":  "1.0.3.0",
+    "notes":  "AuraDesk v1.0.3.0 - Türkçe Karakter ve Güncelleme Düzeltmesi\n- Kalan Türkçe karakter bozulmaları giderildi.\n- Güncelleme sürüm kontrolü test paketiyle uyumlu hale getirildi."
 }
