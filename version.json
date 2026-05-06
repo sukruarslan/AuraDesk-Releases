@@ -1,5 +1,5 @@
-{
-  "version": "1.0.1.0",
-  "downloadUrl": "https://github.com/sukruarslan/AuraDesk-Releases/raw/main/guncelleme.zip",
-  "releaseNotes": "AuraDesk v1.0.1.0 - Kurumsal G\u00fcncelleme Paketi\n\nBu s\u00fcr\u00fcm ile AuraDesk deneyiminizi daha profesyonel ve sorunsuz hale getirdik:\n\n\u2022 Yeni Nesil G\u00fcncelleme Sihirbaz\u0131: Daha g\u00fcvenli, iki a\u015famal\u0131 (\u0130ndirme ve Kurulum) ak\u0131ll\u0131 kurulum altyap\u0131s\u0131.\n\u2022 Optimize Edilmi\u015f Ba\u015flang\u0131\u00e7: Uygulama a\u00e7\u0131l\u0131\u015f\u0131nda sistem kaynaklar\u0131n\u0131 yormayan, 1 dakika gecikmeli ak\u0131ll\u0131 g\u00fcncelleme kontrol\u00fc.\n\u2022 \u015e\u0131k Bilgilendirme Ekranlar\u0131: G\u00fcncelleme \u00f6ncesinde yenilikleri g\u00f6rebilece\u011finiz ve g\u00fcncelleme sonras\u0131nda sizi kar\u015f\u0131layan modern, cam efektli aray\u00fcz tasar\u0131mlar\u0131.\n\u2022 Tam T\u00fcrk\u00e7e Karakter Deste\u011fi: Aray\u00fcz ve ayarlar b\u00f6l\u00fcm\u00fcnde ya\u015fanan karakter uyum sorunlar\u0131 tamamen giderildi.\n\u2022 Sistem Kararl\u0131l\u0131\u011f\u0131: G\u00fcncelleme d\u00f6ng\u00fcleri ve dosya kilitlenme sorunlar\u0131 k\u00f6kten \u00e7\u00f6z\u00fclerek uygulama stabilitesi art\u0131r\u0131ld\u0131.\n\nAuraDesk'i tercih etti\u011finiz i\u00e7in te\u015fekk\u00fcr ederiz. Verimlili\u011finiz bizim \u00f6nceli\u011fimizdir."
+﻿{
+    "url":  "file:///c:/Users/mmsuk/OneDrive/Desktop/Desktop_Organizer/guncelleme.zip",
+    "version":  "1.0.2.0",
+    "notes":  "AuraDesk v1.0.2.0 - Karakter ve Sürüm Düzeltmesi\n- Tüm Türkçe karakter sorunları giderildi.\n- Güncelleme sistemi yerel test moduna alındı."
 }
