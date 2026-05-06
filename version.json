@@ -1,12 +1,12 @@
 {
   "Version": "1.0.1.0",
-  "DownloadUrl": "https://drive.google.com/uc?export=download&id=BURAYA_DRIVE_DOSYA_IDSINI_YAZIN",
-  "ReleaseNotes": "AuraDesk ilk güncellemesi!"
+  "DownloadUrl": "https://github.com/sukruarslan/AuraDesk-Releases/raw/main/guncelleme.zip",
+  "ReleaseNotes": "AuraDesk otomatik güncelleme sistemi aktif edildi!"
 }
 
-// KULLANIM KILAVUZU:
-// 1. Yeni sürümü derleyin (dotnet build) ve oluşan dosyaları 'guncelleme.zip' yapıp Drive'a yükleyin.
-// 2. Drive'daki ZIP dosyasının paylaşım linkindeki ID kısmını alıp yukarıdaki URL'ye yapıştırın.
-// 3. Bu JSON dosyasını da (üstteki yazıları tutarak) Drive'a yükleyin.
-// 4. UpdateService.cs dosyasındaki UPDATE_CHECK_URL kısmına bu JSON dosyasının Drive "Direct Download" linkini yapıştırın.
-// Sistem her açılışta bu dosyayı okuyacak, sürüm numarası yükselmişse arka planda ZIP'i indirip kuracaktır.
+// GITHUB GÜNCELLEME KILAVUZU:
+// Yeni bir sürüm paylaşmak istediğinizde:
+// 1. Üstteki "Version" kısmını artırın (Örn: 1.0.2.0).
+// 2. Yeni derlediğiniz dosyaları 'guncelleme.zip' yapın.
+// 3. GitHub'daki (AuraDesk-Releases) deponuza bu 'version.json' ve yeni 'guncelleme.zip' dosyasını yükleyip eskinin üzerine yazın (Commit changes).
+// Uygulama otomatik olarak bu dosyayı okuyacak ve yeni ZIP'i indirip kuracaktır.
