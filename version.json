@@ -1,0 +1,12 @@
+{
+  "Version": "1.0.1.0",
+  "DownloadUrl": "https://drive.google.com/uc?export=download&id=BURAYA_DRIVE_DOSYA_IDSINI_YAZIN",
+  "ReleaseNotes": "AuraDesk ilk güncellemesi!"
+}
+
+// KULLANIM KILAVUZU:
+// 1. Yeni sürümü derleyin (dotnet build) ve oluşan dosyaları 'guncelleme.zip' yapıp Drive'a yükleyin.
+// 2. Drive'daki ZIP dosyasının paylaşım linkindeki ID kısmını alıp yukarıdaki URL'ye yapıştırın.
+// 3. Bu JSON dosyasını da (üstteki yazıları tutarak) Drive'a yükleyin.
+// 4. UpdateService.cs dosyasındaki UPDATE_CHECK_URL kısmına bu JSON dosyasının Drive "Direct Download" linkini yapıştırın.
+// Sistem her açılışta bu dosyayı okuyacak, sürüm numarası yükselmişse arka planda ZIP'i indirip kuracaktır.
